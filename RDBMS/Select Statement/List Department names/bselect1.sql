@@ -1,1 +1,1 @@
-select department_name from department order by department_name;
+select department_name,department_block_number from department order by department_name;
